@@ -29,7 +29,7 @@
 #define MAXDEVICES 60
 #define JBUFFER 15+ (MAXDEVICES * 40)
 #define PURGETIME 600000
-#define MINRSSI -70
+#define MINRSSI -75
 
 // uint8_t channel = 1;
 unsigned int channel = 1;
